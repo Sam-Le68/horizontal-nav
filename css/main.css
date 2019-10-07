@@ -8,7 +8,7 @@ html {
 .box {
   display: block;
   background-color: #79756f;
-  border-width: 2px 0;
+  border: 3px solid #595652;
 }
 
 *, *::before, *::after {
@@ -30,4 +30,5 @@ li {
   color: white;
   padding: .6em .5em .75em;
   margin: .3em;
+  border-radius: 10px;
 }
