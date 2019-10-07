@@ -28,4 +28,6 @@ li {
   display: inline-block;
   background-color: #713837;
   color: white;
+  padding: .6em .5em .75em;
+  margin: .3em;
 }
