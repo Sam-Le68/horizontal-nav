@@ -1,14 +1,21 @@
 html {
-  font-family: "Bevan", sans-serif;
+  font-family: 'Bevan', sans-serif;
   line-height: 1.5;
   box-sizing: border-box;
   background-color: #dbd6cf;
 }
 
-.box {
+header {
   display: block;
+}
+
+body {
   background-color: #79756f;
   border: 3px solid #595652;
+}
+
+nav {
+  list-style-type: none;
 }
 
 *, *::before, *::after {
@@ -22,6 +29,8 @@ h1 {
 
 ul {
   text-align: center;
+  font-family: 'Bevan', sans-serif;
+  font-style: normal;
 }
 
 li {
@@ -35,4 +44,9 @@ li {
 
 li:hover {
   background-color: #f33;
+}
+
+a {
+  color: white;
+  text-decoration: none;
 }
