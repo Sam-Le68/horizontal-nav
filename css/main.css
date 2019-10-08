@@ -1,5 +1,4 @@
 html {
-  font-family: "Bevan", sans-serif;
   line-height: 1.5;
   box-sizing: border-box;
   background-color: #dbd6cf;
@@ -12,7 +11,7 @@ header {
 body {
   background-color: #79756f;
   border: 3px solid #595652;
-  margin: .3em;
+  margin: auto;
 }
 
 nav {
@@ -24,9 +23,9 @@ nav {
 }
 
 h1 {
+  font-family: "Bevan", cursive;
   text-align: center;
   color: #fff;
-  font-family: "Bevan", sans-serif;
 }
 
 ul {
@@ -51,4 +50,9 @@ li:hover {
 a {
   color: white;
   text-decoration: none;
+}
+
+a:hover {
+  color: white;
+  background-color: #f33;
 }
