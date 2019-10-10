@@ -11,7 +11,7 @@ header {
 body {
   background-color: #79756f;
   border: 3px solid #595652;
-  margin: .3em;
+  margin: .1em;
 }
 
 nav {
@@ -24,6 +24,7 @@ nav {
 
 h1 {
   font-family: "Bevan", sans-serif;
+  font-weight: lighter;
   text-align: center;
   color: #fff;
 }
@@ -31,6 +32,7 @@ h1 {
 ul {
   text-align: center;
   font-family: "PT Sans", sans-serif;
+  font-weight: lighter;
   font-style: normal;
 }
 
