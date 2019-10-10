@@ -11,7 +11,7 @@ header {
 body {
   background-color: #79756f;
   border: 3px solid #595652;
-  margin: auto;
+  margin: .3em;
 }
 
 nav {
@@ -23,7 +23,7 @@ nav {
 }
 
 h1 {
-  font-family: "Bevan", cursive;
+  font-family: "Bevan", sans-serif;
   text-align: center;
   color: #fff;
 }
