@@ -24,15 +24,16 @@ nav {
 
 h1 {
   font-family: "Bevan", sans-serif;
-  font-weight: lighter;
+  font-weight: normal;
   text-align: center;
+  margin: .3em;
   color: #fff;
 }
 
 ul {
   text-align: center;
   font-family: "PT Sans", sans-serif;
-  font-weight: lighter;
+  font-weight: normal;
   font-style: normal;
 }
 
