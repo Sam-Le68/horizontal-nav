@@ -7,7 +7,6 @@ html {
 header {
   display: block;
   margin: .3em;
-  font-weight: bold;
 }
 
 body {
@@ -26,9 +25,9 @@ nav {
 
 h1 {
   font-family: Bevan, serif;
-  font-weight: normal;
+  font-weight: lighter;
   text-align: center;
-  margin: .3em;
+  margin: .3em 0 0;
   color: #fff;
 }
 
@@ -46,8 +45,8 @@ li {
   color: white;
   padding: .6em .5em .75em;
   margin: .3em;
-  border-radius: 15px;
-  font-weight: bold;
+  border-radius: 4px;
+  font-weight: lighter;
 }
 
 li:hover {
